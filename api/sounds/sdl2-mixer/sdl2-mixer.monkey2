@@ -1,5 +1,5 @@
 
-Namespace sdk.api.sdl2.mixer
+Namespace sdk.api.sdl2mixer
 
 #Import "<stdlib>"
 

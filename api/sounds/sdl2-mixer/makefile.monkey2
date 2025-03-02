@@ -1,5 +1,5 @@
 
-Namespace sdk.api.sdl2.mixer
+Namespace sdk.api.sdl2mixer
 
 '#Import "SDL_mixer/dynamic_flac.c"
 '#Import "SDL_mixer/dynamic_fluidsynth.c"

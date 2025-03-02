@@ -46,6 +46,7 @@ Namespace sdk
 																	'	mojo 'iDkP: why?
 																	'	sdl2
 
+'htmlws is an emscripten-only library
 #Import "api/protocoles/websocket/html-ws/html-ws" 					'Websocket
 																	'depends:
 																	'	emscripten.h

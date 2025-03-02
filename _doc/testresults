@@ -1,0 +1,23 @@
+
+	sdk - tests results:
+
+		sdl2:
+			sdl2test								✓ PASSED
+
+		box2d:
+			e0-hello-text							✓ PASSED
+			e1-hello-mojo							✓ PASSED
+			e2-import_cpp_asset						✓ PASSED
+			e3-stress_stack_MouseAABBQuery			✓ PASSED
+			e4-Bodies_and_Joints_MouseAABBQuery		✓ PASSED
+			
+		From the test folder:			
+
+			glwindowtest -> moved in sdk_tests/api/opengl/					✓ PASSED
+			sqlitetest -> moved in sdk_tests/engines/						✓ PASSED			
+			httprequest -> moved in sdk_tests/api/							✓ PASSED
+			hellochipmunk -> moved in sdk_test/api/chipmunk/				✓ PASSED
+			vsynth -> moved in sdk_tests/api/openal/						✓ PASSED
+			openaltest -> moved in sdk_tests/api/openal/					✓ PASSED
+			sdl2test -> moved in sdk_tests/externs/sdl2/					✓ PASSED
+			theoratest -> moved in sdk_tests/externs/theoratest/			✓ PASSED

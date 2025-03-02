@@ -1,0 +1,50 @@
+
+	sdk - Development log:
+
+		TODOs:
+		
+			- Plugins updates
+	
+		VERSION 1.0:
+
+			RELEASE:
+		
+				2025-02-02 - Publish sdk on github
+				2025-02-02 - Make a header/manpage for sdk
+				2025-02-02 - Make a documentation for sdk
+				2025-02-02 - Make a licence file for sdk
+	
+			QUALITY CONTROL:
+	
+				2025-02-28 - Test the full bana/examples folder
+
+				2025-02-27 - Test stdlib with sdk_mojo
+				2025-02-27 - Test sdk with sdk_mojo
+				2025-02-27 - Test stdlib with sdk
+	
+			DOCUMENTATION:
+	
+				2025-02-xx - Draw the references map (sdk)
+				2025-02-28 - Main schema of the sdk updated
+	
+			INTEGRATION:
+
+				2025-02-28 - Chipmunk integration
+				
+				2025-02-27 - Added to 'native': Benjamin Kalytta's bitmap loader (and updated)
+				2025-02-27 - Added 'native', c++ code shared reservoir
+
+				2025-02-26 - Sandbox test (legacy libs severed from modules, new libs recompiled)
+				2025-02-26 - Each tests folders for stdlib, sdk and sdk_mojo are now stand alones
+				2025-02-26 - Change the dependencies and name of 'sdklib' for 'sdk'
+	
+			ANALYSIS & PLANNIFICATION:
+	
+				2025-02-24 - Draw the file hierarchy (sdklib)
+				2025-02-24 - Draw the spacename hierarchy (sdklib)
+	
+				2025-02-22 - Make a schema of the sdklib library
+				2025-02-22 - Change the dependency paths in sdklib
+				2025-02-22 - Write the 'makefile' of sdklib
+				2025-02-22 - Make a new and modern file structure in sdklib
+				2025-02-22 - Create the module addons called 'sdklib'

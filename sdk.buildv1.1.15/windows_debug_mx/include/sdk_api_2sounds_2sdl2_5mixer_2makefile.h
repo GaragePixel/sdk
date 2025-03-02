@@ -1,0 +1,7 @@
+
+#ifndef MX2_SDK_API_2SOUNDS_2SDL2_5MIXER_2MAKEFILE_H
+#define MX2_SDK_API_2SOUNDS_2SDL2_5MIXER_2MAKEFILE_H
+
+#include <bbmonkey.h>
+
+#endif

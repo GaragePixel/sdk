@@ -1,0 +1,7 @@
+
+#ifndef MX2_SDK_API_2PHYSICS_2CHIPMUNK_2CHIPMUNK_H
+#define MX2_SDK_API_2PHYSICS_2CHIPMUNK_2CHIPMUNK_H
+
+#include <bbmonkey.h>
+
+#endif

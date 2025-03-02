@@ -1,0 +1,21 @@
+
+#ifndef MX2_SDK_MEDIAS_2LOADERS_2MESHES_2ASSIMP_2ASSIMP_H
+#define MX2_SDK_MEDIAS_2LOADERS_2MESHES_2ASSIMP_2ASSIMP_H
+
+#include <bbmonkey.h>
+#include <assimp/cimport.h>
+#include <assimp/scene.h>
+#include <assimp/postprocess.h>
+
+extern bbString g_sdk_medias_assimp_AI_0MATKEY_0NAME;
+extern bbString g_sdk_medias_assimp_AI_0MATKEY_0COLOR_0DIFFUSE;
+extern bbString g_sdk_medias_assimp_AI_0MATKEY_0COLOR_0AMBIENT;
+extern bbString g_sdk_medias_assimp_AI_0MATKEY_0COLOR_0SPECULAR;
+extern bbString g_sdk_medias_assimp_AI_0MATKEY_0COLOR_0EMISSIVE;
+extern bbString g_sdk_medias_assimp_AI_0MATKEY_0COLOR_0TRANSPARENT;
+extern bbString g_sdk_medias_assimp_AI_0MATKEY_0COLOR_0REFLECTIVE;
+extern bbString g_sdk_medias_assimp_AI_0CONFIG_0PP_0SBP_0REMOVE;
+extern bbString g_sdk_medias_assimp_AI_0CONFIG_0PP_0FD_0REMOVE;
+extern bbString g_sdk_medias_assimp_AI_0CONFIG_0PP_0SBBC_0MAX_0BONES;
+
+#endif

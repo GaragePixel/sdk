@@ -1,5 +1,5 @@
 
-Namespace sdk.api.htmlws
+Namespace sdk.api.htmlws 'htmlws is an emscripten-only library
 
 #If __TARGET__="emscripten"
 #Import "monkeyws.hpp"

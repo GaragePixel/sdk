@@ -2,7 +2,7 @@
 Namespace sdk.api.httprequest
 
 #Import "<stdlib>"
-#Import "<mojo>" 'iDkP: Why? TOINTEGRATE FIXME
+'#Import "<mojo>" 'iDkP: Why? FIXME
 
 #Import "native/Monkey2HttpRequest.java"
 #Import "native/httprequest.cpp"

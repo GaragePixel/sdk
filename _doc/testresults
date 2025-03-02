@@ -16,6 +16,7 @@
 			glwindowtest -> moved in sdk_tests/api/opengl/					✓ PASSED
 			sqlitetest -> moved in sdk_tests/engines/						✓ PASSED			
 			httprequest -> moved in sdk_tests/api/							✓ PASSED
+			htmlws -> moved in sdk_tests/api/htmlws/						✓ PASSED
 			hellochipmunk -> moved in sdk_test/api/chipmunk/				✓ PASSED
 			vsynth -> moved in sdk_tests/api/openal/						✓ PASSED
 			openaltest -> moved in sdk_tests/api/openal/					✓ PASSED

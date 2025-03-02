@@ -1,5 +1,5 @@
 
-Namespace sdk.api.html.ws
+Namespace sdk.api.htmlws
 
 #If __TARGET__="emscripten"
 #Import "monkeyws.hpp"

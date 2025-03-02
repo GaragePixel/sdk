@@ -1,7 +1,0 @@
-
-#ifndef MX2_SDK_API_2GRAPHICS_2OPENGL_2OPENGL_H
-#define MX2_SDK_API_2GRAPHICS_2OPENGL_2OPENGL_H
-
-#include <bbmonkey.h>
-
-#endif

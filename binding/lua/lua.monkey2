@@ -22,6 +22,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 #End
 
+'iDkP: 
+'	Thanks to https://github.com/swoolcock/
+'	iDkP from https://github.com/GaragePixel/ Code refactoring and more examples
+
 Namespace sdk.binding.lua
 
 #Import "api.monkey2"

@@ -88,6 +88,11 @@ Namespace sdk
 																	'depends:
 																	'	stdlib.plugins.libc
 
+'Binding (Deprecated)
+'#Import "binding/lua/lua"											'Binding Lua
+																	'depends:
+																	'	stdlib.plugins.libc
+
 'Medias
 
 #Import "medias/players/theoraplayer/theoraplayer"					'MediaPlayerApi

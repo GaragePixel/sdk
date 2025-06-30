@@ -13,8 +13,8 @@ Namespace sdk.api.portmidi
 
 Public
 
-Alias HandleStack:stdlib.collections.Stack<Int>
-Alias HandleMap:stdlib.collections.Map<Int,Int>
+Alias HandleStack:stdlib.types.collections.Stack<Int>
+Alias HandleMap:stdlib.types.collections.Map<Int,Int>
 
 #rem monkeydoc Desktop MIDI courtesy PortMidi library.
 #end
